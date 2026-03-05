@@ -1,0 +1,19 @@
+
+= Figuras Que Enseñan
+
+image:images/mainpage.png[]
+
+*Integrantes*
+
+Gabriel Antonio González López zs23014038@estudiantes.uv.mx
+
+Seth Márquez Rodríguez zs23014042@estudiantes.uv.mx
+
+Leonardo Daniel Ortega Teoba zs23014097@estudiantes.uv.mx
+
+*Experiencia Educativa*
+
+Desarrollo De Sistemas En Red
+
+:doctype: book
+:tok:
