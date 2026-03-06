@@ -1,0 +1,48 @@
+
+== Plan de Trabajo Inicial
+
+El primer acercamiento al proyecto, será un análisis sobre las necesidades tecnológicas requeridas para su buen funcionamiento e integración. Para continuar con una fase de diseño para disminuir los percances técnicos que pueden llegar a haber.
+
+=== Actividades Principales
+
+* Documento de análisis de requisitos
+* Documento de diseño
+** Diagrama de clases
+** Diagrama de componentes
+** Diagrama de despliegue
+** Diagrama de secuencia de las funcionalidades más importantes
+* API de sesiones
+* API de métrticas
+* API de Detección de Manos
+* Cliente web
+
+=== Entregables Parciales
+
+[cols="1,1"]
+
+|===
+
+|*Entregable*
+|*Fecha de entrega*
+
+|Documento de análisis de requisitos
+|12/03/2026
+
+|Documento de diseño (Diagrama de clases)
+|15/03/2026
+
+|Diagrama de componentes, diagrama de despliegue
+|01/04/2026
+
+|API de sesiones, API de Detección de Manos
+|20/04/2026
+
+|API de métricas
+|04/05/2026
+
+|Cliente web
+|25/05/2026
+
+|===
+
+Estas fechas pueden variar si es necesario hacer correcciones.

@@ -1,8 +1,78 @@
 
 == Métricas de éxito
 
+Debido al tipo de cliente al que va dirigido, esta aplicación se desea que es rápida, altamente usable y con una taza alta de recuperación ante errores.
+
 === Técnicas
+
+[cols="1,1,1,1"]
+
+|===
+
+|*Métrica*
+|*Indicador*
+|*Valor objetivo*
+|*Método de medición*
+
+|Tiempo de carga de páginas
+|Tiempo promedio de carga de páginas
+|≤ 500ms
+|Pruebas con Postman
+
+|Tiempo de respuesta del modelo de IA
+|Tiempo promedio de respuesta del modelo
+|≤ 300ms
+|Envío de Frames a la API, para probar el tiempo que tarda en procesarlos
+
+|Usabilidad del sistema
+|Calificación con evaluación SUS
+|Puntuación ≥ 85
+|Pruebas de usabilidad
+
+|Recuperación del sistema ante caída de la API de detección de manos
+|Tiempo promedio de envío de reporte y de informar a los usuarios
+|≤ 30 segundos
+|Pruebas de caso de uso
+
+|===
 
 === De negocio
 
+[cols="1,1,1,1"]
+
+|===
+
+|*Métrica*
+|*Indicador*
+|*Valor objetivo*
+|*Método de medición*
+
+|Aprendizaje de sumas sencillas
+|Tiempo promedio de apprendizaje
+|≤ 2 semanas para primeras sumas
+|Pruebas de usuario
+
+|===
+
 === De calidad
+
+[cols="1,1,1,1"]
+
+|===
+
+|*Métrica*
+|*Indicador*
+|*Valor objetivo*
+|*Método de medición*
+
+|Usabilidad del sistema
+|Calificación con evaluación SUS
+|Puntuación ≥ 85
+|Pruebas de usabilidad
+
+|Recuperación del sistema ante caída de la API de detección de manos
+|Tiempo promedio de envío de reporte y de informar a los usuarios
+|≤ 30 segundos
+|Pruebas de caso de uso
+
+|===
