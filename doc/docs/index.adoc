@@ -17,3 +17,6 @@ Desarrollo De Sistemas En Red
 
 :doctype: book
 :tok:
+
+include::metricas_exito.adoc[]
+include::plan_trabajo_inicial.adoc[]
